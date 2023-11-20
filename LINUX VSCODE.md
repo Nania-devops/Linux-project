@@ -56,6 +56,43 @@ The `cat` command in a command-line interface is used to concatenate and display
 
 The `cp` command in a command-line interface is used to copy files or directories from one location to another. So to copy files to a directory, enter the filenames followed by the destination directory. You us the syntax `cp`.
 
+
+
 ![cp](./img/6.cp.png)
+
+
+### MV COMMAND
+
+The `mv` command in Linux is used to move or rename files and directories. You use the syntax `mv`.
+
+![mv](./img/7.MV%20COMMAND.png)
+
+
+### MKDIR COMMAND
+
+The `mkdir` command in Linux is used to create a new directory or folder.
+It also allows users to create parent directories if they do not exist using the `-p` option, and it can set permissions for the newly created directory.
+
+![mkdir](./img/8.MKDIR.png)
+
+
+![mkdir -p](./img/8B.%20MKDIR%20-P.png)
+
+### RMDIR
+
+
+The `rmdir` command in Linux is used to remove empty directories or folders. The `rmdir` command typically only removes empty directories, and it does not remove directories with content; for removing directories with content, the rm command with the `-r (or --recursive)` option is commonly used. The `-p` option with the rmdir command in Linux allows the removal of `parent` directories as well, and it automatically removes any empty parent directories if the specified directory is successfully removed.
+
+![RMDIR, RMDIR -P](./img/9.%20RMDIR,%20RMDIR%20-P.png)
+
+### RM COMMAND
+
+The `rm` command in Linux is used to remove or delete files and directories.
+
+![RM COMMAND](./img/10.%20RM%20COMMAND.png)
+
+
+
+
 
 
