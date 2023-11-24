@@ -91,6 +91,30 @@ The `rm` command in Linux is used to remove or delete files and directories.
 
 ![RM COMMAND](./img/10.%20RM%20COMMAND.png)
 
+### TOUCH COMMAND
+
+The `touch` command in Linux is used to create empty files, update access and modification timestamps of existing files, or set specific timestamp values.
+
+
+![TOUCH COMMAND](./img/011.%20TOUCH%20COMMAND.png)
+
+### LOCATE COMMAND
+
+The `locate` command in Linux is used to quickly find the location of files by searching an indexed database of file names on the system. Passing the `-i` argument will turn of case sensitivity, so you can search for a file even if you don't remember its exact name. You can use the syntax `locate -i`.
+
+
+![LOCATE COMMAND](./img/012.LOCATE%20COMMAND.png)
+
+### FIND COMMAND
+
+
+The `find` command in Linux is used to search for files and directories in a directory hierarchy based on various criteria such as name, type, size, and time. You use the syntax `find`.
+
+![FIND COMMAND](./img/013.FIND%20COMMAND.png)
+
+
+
+
 
 
 
