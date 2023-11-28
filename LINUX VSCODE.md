@@ -112,11 +112,34 @@ The `find` command in Linux is used to search for files and directories in a dir
 
 ![FIND COMMAND](./img/013.FIND%20COMMAND.png)
 
+### GREP COMMAND
+
+The `grep` command in Linux is used for searching and printing lines that match a specified pattern in a text file or output.
+
+![GREP COMMAND](./img/014.GREP%20COMMAND.png)
+
+### DF COMMAND
+
+The `df` command in Linux is used for displaying information about disk space usage, including the total, used, and available space on file systems.
+
+![DF COMMAND](./img/015.DF%20COMMAND.png)
+
+### DU COMMAND
+
+The `du command`in Linux is used for estimating and displaying the disk space usage of files and directories in a specified location. To use this command, you have to specify the directory path for example `du /home/ubuntu/Cake-flavors`
+
+![DU COMMAND](./img/O16.DU%20COMMAND.png)
+
+### HEAD COMMAND
 
 
+The `head` command in Linux is used for displaying the first few lines of a text file or input, allowing users to preview the beginning of the content.
+
+![HEAD COMMAND](./img/017.HEAD%20COMMAND.png)
+
+### TAIL COMMAND
 
 
+The `tail command` in Linux is used for displaying the last few lines of a text file or input, enabling users to preview the end of the content, which is particularly useful for monitoring logs in real-time.
 
-
-
-
+![TAIL COMMAND](./img/018.TAIL%20COMMAND.png)
