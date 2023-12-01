@@ -172,4 +172,9 @@ The `chown` command in Linux is used to change the ownership of files and direct
 ![CHOWN COMMAND](./img/022.CHOWN%20COMMAND.png)
 
 
-###
+### JOBS COMMAND
+
+The `jobs` command in Linux is used to display a list of all background jobs that are currently running in the shell session. You input the syntax  `&` at the end of the command to run it in the background.
+
+
+![JOBS COMMAND](./img/023.JOBS%20COMMAND.png)
