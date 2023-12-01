@@ -178,3 +178,34 @@ The `jobs` command in Linux is used to display a list of all background jobs tha
 
 
 ![JOBS COMMAND](./img/023.JOBS%20COMMAND.png)
+
+### KILL COMMAND
+
+In Linux, the `kill` command is used to terminate or signal processes. It allows you to send signals to processes, and two common signals are `SIGTERM` and `SIGKILL`. 
+When a process receives SIGTERM, it has an opportunity to perform cleanup operations before shutting down. It allows the process to release resources and exit gracefully.
+When a process receives SIGKILL, it is immediately terminated without any chance to clean up or save its state. It is often used when a process is unresponsive or refuses to terminate through SIGTERM.
+
+![KILL COMMAND](./img/024.KILL%20COMMAND.png)
+
+
+### PING COMMAND
+
+The `ping` command in Linux is used to send a network request to a specific IP address or hostname to check if the target host is reachable and to measure the round-trip time for packets to travel from the source to the destination and back. The basic syntax of the ping command is: `ping [options] destination`. For example: `ping google.com`
+
+
+![PING COMMAND](./img/025.PING%20COMMAND.png)
+
+### WGET COMMAND
+
+The `wget` command in Linux is a utility for non-interactive downloading files from the web. It allows you to retrieve files from the internet using HTTP, HTTPS, and FTP protocols. Here is a basic syntax of the wget command:
+`wget [options] [URL]`
+
+
+![WGET COMMAND](./img/026.WGET%20COMMAND.png)
+
+The `uname` command is a Unix and Unix-like operating system command that provides information about the system. When you run the uname command without any options or arguments, it typically displays the system name, kernel name, kernel release, kernel version, machine hardware name, and processor type.
+
+![UNAME COMMAND](./img/027.UNAME%20COMMAND.png)
+
+
+
