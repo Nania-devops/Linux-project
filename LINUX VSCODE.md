@@ -143,3 +143,33 @@ The `head` command in Linux is used for displaying the first few lines of a text
 The `tail command` in Linux is used for displaying the last few lines of a text file or input, enabling users to preview the end of the content, which is particularly useful for monitoring logs in real-time.
 
 ![TAIL COMMAND](./img/018.TAIL%20COMMAND.png)
+
+### DIFF COMMAND
+
+
+The `diff` command in Linux is used to compare and display the differences between two text files.
+
+![DIFF COMMAND](./img/019.DIFF%20COMMAND.png)
+
+### TAR COMMAND
+
+The `tar` command in Linux is used to archive and compress multiple files or directories into a single file.
+
+![TAR COMMAND](./img/020.TAR%20COMMAND.png)
+
+
+### CHMOD COMMAND
+
+The `chmod` command in Linux is used to change the permissions (read, write, execute) of files and directories.
+
+
+![CHMOD COMMAND](./img/021.CHMOD%20COMMAND.png)
+
+### CHOWN COMMAND
+
+The `chown` command in Linux is used to change the ownership of files and directories, assigning them to a specified user and/or group.
+
+![CHOWN COMMAND](./img/022.CHOWN%20COMMAND.png)
+
+
+###
