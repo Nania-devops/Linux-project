@@ -203,7 +203,7 @@ The `wget` command in Linux is a utility for non-interactive downloading files f
 
 ![WGET COMMAND](./img/026.WGET%20COMMAND.png)
 
-The `uname` command is a Unix and Unix-like operating system command that provides information about the system. When you run the uname command without any options or arguments, it typically displays the system name, kernel name, kernel release, kernel version, machine hardware name, and processor type.
+The `uname` command is a Unix and Unix-like operating system command that provides information about the system. When you run the `uname` command without any options or arguments, it typically displays the system name, kernel name, kernel release, kernel version, machine hardware name, and processor type.
 
 ![UNAME COMMAND](./img/027.UNAME%20COMMAND.png)
 
