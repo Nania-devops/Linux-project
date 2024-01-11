@@ -207,5 +207,54 @@ The `uname` command is a Unix and Unix-like operating system command that provid
 
 ![UNAME COMMAND](./img/027.UNAME%20COMMAND.png)
 
+### TOP COMMAND
+
+The `top` command in Linux provides real-time information about system resource usage, displaying a dynamic and interactive overview of running processes.
+
+![TOP COMMAND](./img/028.TOP%20COMMAND.png)
+
+### HISTORY COMMAND
+
+The `history` command in Linux displays a list of previously executed shell commands in the terminal session.
+
+![HISTORY COMMAND](./img/029.HISTORY%20COMMAND.png)
+
+### MAN COMMAND
+
+The "man" command in Linux is used to display the manual pages for other commands, providing detailed information and documentation on their usage, options, and functionalities. so you can run the syntax `man ls`. This command would display the manual page for the "ls" command, showing information about how to use it and its various options.
+
+![MAN COMMAND](./img/030.MAN%20COMMAND.png)
+
+### ECHO COMMAND
+
+The `echo` command in Linux is used to display text or output to the terminal. It takes the text or strings as arguments and prints them to the standard output (usually the terminal). It is commonly used in shell scripts and the command line for various purposes, such as printing messages, setting variables, or generating output.
+This command will output the text "Hello, Jane!" to the terminal. Additionally, you can use the echo command with variables, escape characters, or special options for more complex text manipulation.
+
+![ECHO COMMAND](./img/031.ECHO%20COMMAND.png)
+
+### ZIP,UNZIP COMMANDS
+
+In Linux, the `zip` command compresses files into a zip archive, while the `unzip` command extracts files from a zip archive, offering a straightforward way to manage file compression and decompression tasks.
+
+![ZIP,UNZIP COMMAND](./img/032.ZIP-UNZIP.png)
+
+### HOSTNAME COMMAND
+
+In Linux, the `hostname` command is used to display or set the system's host name, which is the unique identifier assigned to a computer on a network.
+
+![HOSTNAME COMMAND](./img/033.HOSTNAME%20COMMAND.png)
+
+### USERADD,USERDEL COMMANDS
+
+`USERADD`: This command creates a new user account with the specified username. Options can be used to set details such as the user's home directory, login shell, initial login group, additional groups, and password.Syntax is useradd [options] username e.g useradd Nania.
+
+`USERDEL` This command removes a user account from the system. The -r option can be used to delete the user's home directory and mail spool along with the account. Deleting a user with userdel does not delete the user's files unless the -r option is used.
+
+`Note that both commands requires sudo priviledges to run.`
+
+![USERADD,USERDEL COMMANDS](./img/034.USERADD,USERDEL%20COMMANDS.png)
+
+
+
 
 
