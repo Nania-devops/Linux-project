@@ -254,6 +254,78 @@ In Linux, the `hostname` command is used to display or set the system's host nam
 
 ![USERADD,USERDEL COMMANDS](./img/034.USERADD,USERDEL%20COMMANDS.png)
 
+### APT-GET COMMAND
+
+The `apt-get` command in Linux is a package management tool used primarily in Debian and Ubuntu-based systems to handle the installation, upgrading, configuration, and removal of software packages. It is a command-line interface for the Advanced Package Tool (APT) system.
+
+![APT-GET COMMAND](./img/035.%20APT-GET%20COMMAND.png)
+
+### NANO,VI,JED COMMANDS
+
+`Nano, Vi, and Jed` commands in Linux are used to manipulate and edit text files efficiently, providing users with a range of options from basic text editing (Nano) to more advanced and versatile capabilities (Vi and Jed).
+
+"After using Nano to quickly edit a configuration file, I switched to Vi to make some advanced changes, and finally, I turned to Jed for its user-friendly interface to fine-tune the document."
+
+![NANO,VI,JED](./img/036.A%20NANO,VI,JED%20COMMANDS.png)
+
+![NANO,VI,JED](./img/036.B%20NANO,VI,JED%20COMMANDS.png)
+
+![NANO,VI,JED](./img/036.C%20NANO,VI,JED%20COMMANDS.png)
+
+![NANO,VI,JED](./img/036.D%20NANO,VI,JED%20COMMANDS.png)
+
+### ALIAS UNALIAS COMMAND
+
+In Linux, the alias and unalias commands are used to create and manage command aliases. An alias is a short name or abbreviation assigned to a longer command or set of commands, making it easier to remember and use frequently executed commands. Here's a brief overview:
+
+1. `Alias Command`:
+To create an alias, you can use the alias command followed by the alias name and the command you want to associate with it. The basic syntax is:
+ `alias alias_name='command'`
+
+ For example, let's say you want to create an alias named "ll" for the ls -l command:
+ `alias ll='ls -l'
+
+Now, whenever you type `ll` in the terminal, it will execute the    `ls -l command.`
+
+To remove an alias, you can use the `unalias` command followed by the `alias name`. The syntax is:
+`unalias alias_name`.
+
+For example, to remove the `"ll"` alias we created earlier: We use the syntax `unalias ll`. Now, typing `ll` will not be recognized as an alias anymore.
+
+![ALIAS,UNLIAS](./img/037.A%20ALIAS,UNALIAS%20COMMAND.png)
+
+![ALIAS,UNALIAS](./img/037.B%20ALIAS,UNALIAS%20COMMAND.png)
+
+### SU COMMAND
+
+The su command in Linux stands for "switch user" or "substitute user." It allows you to switch to another user account or become a superuser (root) if no specific user is specified. The su command is often used in terminal sessions to perform administrative tasks that require elevated privileges.
+
+![SU](./img/038.SU%20COMMAND.png)
+
+### HTOP COMMAND
+
+
+`htop` is a command-line utility in Linux used for viewing and managing system processes in real-time. It provides a more user-friendly and interactive interface compared to the traditional top command.
+
+![HTOP](./img/039.HTOP%20COMMAND.png)
+
+### PS COMMAND
+
+The `ps` command in Linux and Unix-like operating systems is used to provide information about the currently running processes. It displays information such as process IDs (PIDs), terminal associated with the process, CPU and memory usage, and more.
+
+![PS](./img/040.PS%20COMMAND.png)
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
